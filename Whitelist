@@ -1,1 +1,5 @@
-
+userids = {
+[USERID HERE] = true,
+[USERIDHERE ] = true
+}
+return userids
